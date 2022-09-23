@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FHXmTEH4s5MgHTurb4KdUnP%2Fportfolio%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
